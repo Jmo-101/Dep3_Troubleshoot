@@ -16,7 +16,7 @@ def your_url():
         urls = {}
 
         if os.path.exists('urls.json'):
-            with open('urls.json') as urls_file:
+            with open('urls.json' , 'r') as urls_file:
                 urls = json.loads(urls_file)
 
         if request.form['code'] in urls.keys():

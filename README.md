@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">C4_deployment-3.1<h1> 
 
-# Project: Troubleshooting Deployment Issue
 
 ## About
 

@@ -48,5 +48,7 @@ git checkout <version 1 id>
 ```
 <img width="747" alt="Screenshot 2023-09-22 at 11 31 12 PM" src="https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/dae28ad5-d776-4b04-b88d-64ab517e2d53">
 
+<img width="493" alt="Screenshot 2023-09-22 at 11 31 21 PM" src="https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/e8873a6a-e1f4-4cc4-b578-57bbc5953f21">
+
 
 

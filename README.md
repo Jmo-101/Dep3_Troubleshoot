@@ -11,7 +11,7 @@ This project showcases the method to troubleshoot a problem between deployment. 
 
 ## Version 1
 
-For steps and explanation regarding version 1, click [here](#https://github.com/Jmo-101/Web_Hook_Flask/blob/main/README.md).
+For steps and explanation regarding version 1, click [here](https://github.com/Jmo-101/Web_Hook_Flask/blob/main/README.md).
 
 ## Post Incident Report
 

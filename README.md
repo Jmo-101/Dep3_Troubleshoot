@@ -31,7 +31,7 @@ The steps taken to resolve this issue were as follows:
 
 <img width="420" alt="Screenshot 2023-09-20 at 8 24 31 PM" src="https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/3b0b07f8-042d-4796-a2a7-7fcce721ffc5">
 
-<img width="420" alt="Screenshot 2023-09-22 at 11 02 43 PM" src="https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/ce2b6098-8959-4197-97d6-87e1714b95b7">
+<img width="425" alt="Screenshot 2023-09-22 at 11 02 43 PM" src="https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/ce2b6098-8959-4197-97d6-87e1714b95b7">
 
 <img width="420" alt="Screenshot 2023-09-22 at 11 02 17 PM" src="https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/c915a876-9e98-4d95-8d39-1b5a05db2c52">
 

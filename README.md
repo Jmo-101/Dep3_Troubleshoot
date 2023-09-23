@@ -45,10 +45,16 @@ For future incidents, I would consider rolling back to a previous version of the
 
 ```python
 git checkout <version 1 id>
+git commit -m "reverting back to version 1 of application"
+git push
 ```
 <img width="747" alt="Screenshot 2023-09-22 at 11 31 12 PM" src="https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/dae28ad5-d776-4b04-b88d-64ab517e2d53">
 
 <img width="493" alt="Screenshot 2023-09-22 at 11 31 21 PM" src="https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/e8873a6a-e1f4-4cc4-b578-57bbc5953f21">
+
+<img width="777" alt="Screenshot 2023-09-22 at 11 36 10 PM" src="https://github.com/Jmo-101/Web_Hook_Flask/assets/138607757/970a102d-3b06-44d8-955b-827e32d6c318">
+
+<img width="439" alt="Screenshot 2023-09-22 at 11 36 27 PM" src="https://github.com/Jmo-101/Web_Hook_Flask/assets/138607757/63f8b046-cf06-4efe-9b20-e4aa37684dbd">
 
 
 

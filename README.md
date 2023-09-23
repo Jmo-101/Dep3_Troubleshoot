@@ -45,7 +45,7 @@ For future incidents, I would consider rolling back to a previous version of the
 
 ```python
 git checkout <version 1 id>
-git commit -m "reverting back to version 1 of application"
+git commit -m "reverting to version 1 of the application"
 git push
 ```
 <img width="747" alt="Screenshot 2023-09-22 at 11 31 12 PM" src="https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/dae28ad5-d776-4b04-b88d-64ab517e2d53">

@@ -29,6 +29,8 @@ The steps taken to resolve this issue were as follows:
 3. Found that line 20 in the `application.py` file was displaying an error related to how JSON code was written.
 4. Corrected the issue by changing `JSON.loads` to `JSON.load`, as the Python script was supposed to read the document from the file.
 
+![Screenshot 2023-09-20 at 8 24 31 PM](https://github.com/Jmo-101/Dep3_Troubleshoot/assets/138607757/3b0b07f8-042d-4796-a2a7-7fcce721ffc5)
+
 ### Resolved
 
 After making the change to `json.load`, the application deployed successfully.

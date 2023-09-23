@@ -41,9 +41,11 @@ After making the change to `json.load`, the application deployed successfully.
 
 ### Future Steps
 
-For future incidents, consider the following steps:
+For future incidents, I would consider rolling back to a previous version of the application. It would be faster to deploy a working version of the application rather than experiencing downtime on a server that needs to be up. The steps I would take to rollback this deployment is
 
-- Consider rolling back to a previous version of the application. It would be faster to deploy a working version of the application rather than experiencing downtime on a server that needs to be up.
+```python
+git checkout <version 1 id>
+```
 
 
 
